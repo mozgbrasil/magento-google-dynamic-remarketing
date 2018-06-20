@@ -3,4 +3,4 @@ app/code/local/NoName/Gdn/ app/code/local/NoName/Gdn/
 app/design/frontend/base/default/layout/gdn.xml app/design/frontend/base/default/layout/gdn.xml
 app/design/frontend/base/default/template/gdn/ app/design/frontend/base/default/template/gdn/
 app/etc/modules/NoName_Gdn.xml app/etc/modules/NoName_Gdn.xml
-/app/locale/en_US/NoName_Gdn.csv /app/locale/en_US/NoName_Gdn.csv
+app/locale/en_US/NoName_Gdn.csv app/locale/en_US/NoName_Gdn.csv
